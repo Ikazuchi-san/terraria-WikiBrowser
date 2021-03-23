@@ -1,0 +1,3 @@
+author = Ikazuchi-san
+version = 0.1
+displayName = Wiki Browser
